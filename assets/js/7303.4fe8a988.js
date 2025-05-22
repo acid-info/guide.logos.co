@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunklogos_docs_template=self.webpackChunklogos_docs_template||[]).push([[7303],{7303:(e,s,c)=>{c.d(s,{createInfoServices:()=>o.v});var o=c(68525);c(73579)}}]);
