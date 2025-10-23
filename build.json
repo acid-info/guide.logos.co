@@ -1,15 +1,15 @@
 {
-    "timestamp": "2025-05-22T13:23:17Z",
+    "timestamp": "2025-10-23T11:45:24Z",
     "git": {
-        "commit": "81d3b1b8600edb3d9ff0009ee70d497699fa4da6",
+        "commit": "22a2deefa495bc2e700df28f0a3ca9154fdf7b85",
         "branch": "origin/develop",
         "url": "git@github.com:acid-info/guide.logos.co.git"
     },
     "build": {
-        "id": "18",
-        "number": "18",
+        "id": "19",
+        "number": "19",
         "name": "website/dev-guide.logos.co",
-        "slave": "linux-02",
-        "url": "https://ci.infra.status.im/job/website/job/dev-guide.logos.co/18/"
+        "slave": "linux-02-container",
+        "url": "https://ci.infra.status.im/job/website/job/dev-guide.logos.co/19/"
     }
 }
